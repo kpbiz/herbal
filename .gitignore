@@ -1,0 +1,14 @@
+fb/vendor/
+composer.lock
+tests/FacebookTestCredentials.php
+
+
+
+api/.buildpath
+api/.project
+api/.settings/
+
+api/phpunit.phar
+
+api/tests/config.php
+api/extras/core.php
